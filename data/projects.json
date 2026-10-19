@@ -1,0 +1,45 @@
+[
+    {
+    "title": "OU MIS Case Competition: The Chickasaw Nation",
+    "category": "Data",
+    "description": "First place out of 200+ students in a consulting case for The Chickasaw Nation.",
+    "details": "Partnered with The Chickasaw Nation on a simulated real-world consulting project. Our team analyzed a multi-million record dataset using Python, Streamlit, and Power BI to find insights and recommend ways to streamline operations and use technology to grow profit. We won first place overall.",
+    "technologies": ["Python", "Streamlit", "Power BI", "Data Analysis"]
+  },
+  {
+    "title": "Supplier Data Quality Dashboard",
+    "category": "Data",
+    "description": "Multi-page Power BI dashboard tracking 5.69M+ part cross references across 291 suppliers.",
+    "details": "Built during my Volvo Group internship. I pulled supplier and product data from the EnterWorks REST API (OAuth 2.0) and an Azure database with 20+ tables, then built Executive Summary, SPOC Review, and DPO Review pages that show data quality gaps and trends for stakeholders.",
+    "technologies": ["Power BI", "DAX", "Power Query (M)", "REST API", "Azure SQL"]
+  },
+  {
+    "title": "Code Quality Alert System",
+    "category": "Data",
+    "description": "Automated tracking and email alerts for unit coverage declines and overdue action plans.",
+    "details": "Built from scratch at Volvo Group using SharePoint lists and six Power Automate workflows. The flows check for coverage drops and overdue items and send dynamic HTML email alerts so teams find out about problems early.",
+    "technologies": ["Power Automate", "SharePoint", "HTML"]
+  },
+  {
+    "title": "chat.bnb",
+    "category": "Programming",
+    "description": "Built a Python chatbot that answers questions about Airbnb listings using natural language processing.",
+    "details": "Used NLTK to process user questions and pandas to search listing data, with a desktop interface built in ttkbootstrap.",
+    "technologies": ["Python", "NLTK", "pandas", "ttkbootstrap"]
+  },
+  {
+    "title": "GL Dining Website",
+    "category": "Web",
+    "description": "Building a new website for two local Norman, OK restaurants.",
+    "details": "Team project for Blu Fine Wine & Food and The Library Bar & Grill. Currently in development, but the site will feature menus, online ordering, and a shared events calendar. I created wireframes and design concepts for the site.",
+    "technologies": ["Wireframing", "UX Design", "HTML", "CSS"]
+  },
+  
+  {
+    "title": "Personal Portfolio Website",
+    "category": "Web",
+    "description": "This site. A multi-page portfolio built with Bootstrap, with projects loaded from JSON.",
+    "details": "Projects are stored in a JSON file, loaded with fetch(), and turned into cards with JavaScript. Includes category filtering, a project details modal, and dark mode.",
+    "technologies": ["HTML", "CSS", "JavaScript", "Bootstrap", "JSON"]
+  }
+]
